@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  background-color: #F5E6CA;
+}
+
+h1 {
+  font-size: 8rem;
+  color: #CF0000;
+  font-family: 'Inconsolata', monospace;
+  text-shadow: 7px 9px #000000;
+}
+
+footer {
+  color: #810000;
+  font-family: 'Inconsolata', monospace;
+  font-weight: 500;
+}
+
+.w {
+  background-image: url("images/iyo.PNG");
+  background-size: 21rem;
+}
+
+.a {
+  background-image: url("images/malamente.PNG");
+  background-size: 21rem;
+}
+
+.s {
+  background-image: url("images/mira.PNG");
+  background-size: 15rem;
+}
+
+.d {
+  background-image: url("images/ommhh.PNG");
+  background-size: 21rem;
+}
+
+.j {
+  background-image: url("images/principio.PNG");
+  background-size: 20rem;
+}
+
+.k {
+  background-image: url("images/tratra.PNG");
+  background-size: 22rem;
+}
+
+.l {
+  background-image: url("images/uhh.PNG");
+  background-size: 20rem;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #595260;
+  opacity: 0.5;
+}
+
+.sounds {
+  display: inline-grid;
+}
+
+.music {
+  outline: none;
+  border: 10px solid #EF4F4F;
+  font-size: 5.2rem;
+  font-family: 'Inconsolata', monospace;
+  line-height: 2;
+  font-weight: 900;
+  color: #810000;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 15rem;
+  height: 15rem;
+  text-align: center;
+  margin: 10px;
+  background-color: #F5E6CA;
+}
